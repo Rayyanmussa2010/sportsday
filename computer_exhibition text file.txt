@@ -1,0 +1,87 @@
+<html>
+<body><b>
+<body bgcolor="olive green">
+<p align="center">
+<font color="white">
+<font size="5">
+THE ROSARY HIGH SCHOOL CUJIRA
+</font size="5">
+</font color="white">
+</b>
+<font color="blue">
+<h2><marquee> SPORTS DAY</marquee></h2>
+</font color="blue">
+<hr>
+<font color="red">
+<font size="4">
+<h3> How The Programe Went...</h3>
+</font color="red">
+</font size="4">
+<br>
+<video width="620" height="440" controls>
+    <source src="sports day.mp4" type="video/mp4">
+    <source src="sports day.ogg" type="video/ogg">
+  </video>
+<br>
+<font color="green">
+<font size="4">
+<h3>The Chief Guest</h3>
+</font size="4">
+</font color="green">
+<br>
+<div class="row">
+    <div class="clm">
+      <img src="cheif 1.jpg" alt="Chief 1" style="width:22%">
+    </div>
+    <div class="clm">
+      <img src="cheif 2.jpg" alt="Chief 1" style="width:22%">
+    </div>
+    <div class="clm">
+      <img src="cheif 3.jpg" alt="Chief 1" style="width:22%">
+    </div>
+  </div>
+<br>
+<h2>Sports Team</h2>
+<h3>Boys Football Team- </h3>
+<img src="football team.jpg" alt="interclass football" width="50%">
+<br>
+<h3>Girls Football Team-</h3>
+<img src="girls football.jpg" alt="girls football" width="50%">
+<h3>Table Tennis Team- </h3>
+<br>
+<img src="table tennis.jpg" alt="tabletennis team" width="50%">
+<br>
+<br>
+<br>
+<img src="table tennis 2.jpg" alt="tabletennis team 2" width="50%">
+<br>
+<br>
+<br>
+<img src="table tennis 3.jpg" alt="tabletennis team 3" width="50%">
+<h2>Chess- </h2>
+<img src="chess.jpg" alt="chess" width="50%">
+<br>
+<h3>Skating-</h3>
+<br>
+<img src="Skating.jpg" alt="skaters" width="50%">
+<br>
+<br>
+<br>
+<h3>U-14 Badminton Team-</h3>
+<br>
+<img src="badminton u14.jpg" alt="u14 badminton" width="50%">
+<br>
+<br>
+<br>
+<h3>U-17 badminton Team-</h3>
+<img src="badminton u17.jpg" alt="u17 badminton" width="50%">
+<br>
+<br>
+<br>
+<br>
+<h4>Introducing The New Student Council</h4>
+<br>
+<video width="620" height="440" controls>
+  <source src="student council.mp4" type="video/mp4">
+  <source src="student council.ogg" type="video/ogg">
+</video>
